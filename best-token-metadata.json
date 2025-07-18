@@ -1,0 +1,8 @@
+{
+  name: "Cloud9",
+  symbol: "CLD9",
+  description: "The best token ever minted",
+  image: "",
+  attributes: [ ],
+  properties: { }
+}
